@@ -15,6 +15,12 @@ This solution works on top of the existing configuration from the wiki and does 
 
 
 
+**********************************************************
+
+
+
+
+
 Offline SMS Queue System for FreePBX / Asterisk (voip.ms)
 Deployment Guide – Complete Implementation
 ________________________________________
