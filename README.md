@@ -3,7 +3,7 @@ Offline SMS Queue for Asterisk 20/ FreePBX 16 (voip.ms)
 
 
 
-While using the SIP SMS configuration from your documentation: https://wiki.voip.ms/article/SIP/SMS_with_FreePBX
+While using the SIP SMS configuration from this documentation: https://wiki.voip.ms/article/SIP/SMS_with_FreePBX
 
 I noticed that if the SIP endpoint (UE) is not registered when the SMS arrives, Asterisk attempts the MessageSend() but the message is not delivered.
 
